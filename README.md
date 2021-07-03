@@ -2,9 +2,9 @@
   
 <!-- <img href="https://www.linkedin.com/in/crackingdemon" src="https://img.shields.io/badge/Ritesh_Kumar-30302f?style=flat&logo=linkedin"/> -->
   
-[![linkedin badge](https://img.shields.io/badge/Sourav-Raj-30302f?style=flat&logo=linkedin)](https://www.linkedin.com/in/nyctonio)
-[![twitter badge](https://img.shields.io/badge/@crackingdemon-30302f?style=flat&logo=twitter)](https://twitter.com/nyctonio)
-[![medium badge](https://img.shields.io/badge/Sourav_Raj-30302f?style=flat&logo=medium)](https://medium.com/@nyctonio)
+[![linkedin badge](https://img.shields.io/badge/Sourav-Raj-30302f?style=flat&logo=linkedin)](https://www.linkedin.com/in/crackingdemon)
+[![twitter badge](https://img.shields.io/badge/@crackingdemon-30302f?style=flat&logo=twitter)](https://twitter.com/crackingdemon)
+[![medium badge](https://img.shields.io/badge/Sourav_Raj-30302f?style=flat&logo=medium)](https://medium.com/@crackingdemon)
 
 
 <h1>hello , Sourav Raj is here  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"></h1>

@@ -77,15 +77,19 @@
     <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" alt="selenium" width="40" height="40"/>
   </a>
   <a href="https://nextjs.org/" target="_blank">
-    <img style="background:white" src="/.github/icons/nextjs.svg" width="40"/>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg" alt="nextjs" width="40"/>
   </a>
   <a href="https://www.npmjs.com/" target="_blank">
     <img src="https://icongr.am/devicon/npm-original-wordmark.svg?size=128&color=ffffff" alt="npm" width="40" height="40"/>
   </a>
-  <img src="/.github/icons/vercel.svg" width="40"/>
-  <img src="/.github/icons/socketio.svg" width="40"/>
-  <img src="/.github/icons/redux.svg" width="30"/>
-  <img src="https://cdn.worldvectorlogo.com/logos/tailwindcss.svg" width="30"/>
+  <a href="https://vercel.com" target="_blank">
+    <img src="https://www.vectorlogo.zone/logos/vercel/vercel-icon.svg" alt="vercel" width="40"/>
+  </a>
+  <a href="https://socket.io" target="_blank">
+    <img src="https://www.vectorlogo.zone/logos/socketio/socketio-icon.svg" alt="socketio" width="40"/>
+  </a>
+  <img src="https://cdn.worldvectorlogo.com/logos/redux.svg" alt="redux" width="30"/>
+  <img src="https://cdn.worldvectorlogo.com/logos/tailwindcss.svg" alt="tailwindcss" width="30"/>
   <a href="https://firebase.google.com/" target="_blank">
     <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/>
   </a>
@@ -95,7 +99,7 @@
   <a href="https://git-scm.com/" target="_blank">
     <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
   </a>
-  <img src="https://phaser.io/images/img.png" width="40"/>
+  <img src="https://phaser.io/images/img.png" alt="phaser" width="40"/>
 </p>
 
 <br>
